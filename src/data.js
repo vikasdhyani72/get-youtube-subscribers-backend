@@ -1,6 +1,5 @@
 const mongoose = require('mongoose')
-const Subscriber = require('./models/subscribers') // Path to your model
-
+const Subscriber = require('./models/subscribers')
 const data = [
   {
     name: 'Jeread Krus',
